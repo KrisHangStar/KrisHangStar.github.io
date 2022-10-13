@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://KrisHangStar.github.io</id>
     <title>个人的小天地</title>
     <subtitle></subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://krishangstar.github.io/images/favicon.ico</icon>
+    <link href="https://KrisHangStar.github.io" />
     <author>
       <name>Kris Hang</name>
     </author>
     <updated>2022-10-13T02:57:47.816Z</updated>
     <entry>
-        <id>http://example.com/2022/10/13/chinese_medicine_p1/</id>
+        <id>https://krishangstar.github.io/chinese_medicine_p1/</id>
         <title>读医学源流论（1）</title>
-        <link rel="alternate" href="http://example.com/2022/10/13/chinese_medicine_p1/"/>
+        <link rel="alternate" href="https://krishangstar.github.io/chinese_medicine_p1/"/>
         <content type="html">&lt;p&gt;​	很早之前就想阅读一下这本书了，但是囿于自己最近心性浮躁，难以沉静，没能找到机会仔细地阅读。最近有了阅读的状态与心思，借此机会细细读来，希望能够从书中获得一些启发。&lt;/p&gt;
 &lt;h2 id=&#34;肾藏精论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#肾藏精论&#34;&gt;#&lt;/a&gt; 肾藏精论&lt;/h2&gt;
 &lt;p&gt;​    这一部分讲述了很常见的一个问题：对于肾精需不需要节制？这里做了一个很形象的比喻，把肾中藏精之处，比作水井，并引用了《周易》里的话来说明适时清理水井，从井中打水的合理性。&lt;br /&gt;
@@ -42,7 +42,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;​	与打仗一样，针对不同的病症使用不同战略谋划、派兵布局才是合理的方法，就连《孙子兵法》中的思想也可以运用到治病的过程中。我想，这就是华夏文明传统文化中伟大的地方：天人合一的思想内涵赋予了这棵大树上各个枝叶统一而华美的精神底蕴。我们能够以一个综合连贯的视角去认识和感受这个世界。&lt;/p&gt;
 </content>
-        <category term="中医" scheme="http://example.com/categories/%E4%B8%AD%E5%8C%BB/" />
+        <category term="中医" scheme="https://krishangstar.github.io/categories/%E4%B8%AD%E5%8C%BB/" />
         <updated>2022-10-13T02:57:47.816Z</updated>
     </entry>
 </feed>
